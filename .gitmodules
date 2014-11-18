@@ -1,0 +1,3 @@
+[submodule "src/lcars"]
+	path = src/lcars
+	url = git@github.com:martindevans/LCARS.git
